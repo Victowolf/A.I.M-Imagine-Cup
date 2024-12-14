@@ -12,9 +12,18 @@ Password - carethru
 
 # In Home Page 
 Using the + at the centre bottom of the home page, we can create a new Patient ID
+home page is divided into two parts the left patient side, and right patient data .
 
-#
+the application recives real time live data from the sensor and 
+the machine learning model predicts a possible heart attack 5 to 10min before it occurs.
 
+patient data comprises of their personal info and an Ecg graph, 
+for demo purposes the 2nd patient has been hard coded. below the ECG graph of the 2nd patient the
+'analyse' button give live analysis of the data through Chat Gpt integration.
+
+all the data is securly stored in mongoDB database(google cloud).
+
+#'assest' file in software branch has the accuracy reports and a walkthrough of the Windows application.
 ********************************************************************************************************************************************************
 
 # Code in Arduino
