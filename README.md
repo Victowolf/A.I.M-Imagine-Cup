@@ -1,4 +1,4 @@
-# A.I.M-Cash-Of-Codes-
+# A.I.M-
 For Clash of Codes Hackathon, Remote cardiac monitoring and prevention system...
 
 # Note:- This application is in the development stage, some functions may not work fully...**
