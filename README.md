@@ -1,4 +1,4 @@
-# A.I.M-
+# A.I.M-Imagine-Cup
 For Imagine cup Hackathon, Remote cardiac monitoring and prevention system...
 
 # Note:- This application is in the development stage, some functions may not work fully...**
