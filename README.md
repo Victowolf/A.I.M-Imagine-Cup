@@ -1,5 +1,5 @@
 # A.I.M-
-For Clash of Codes Hackathon, Remote cardiac monitoring and prevention system...
+For Imagine cup Hackathon, Remote cardiac monitoring and prevention system...
 
 # Note:- This application is in the development stage, some functions may not work fully...**
 
